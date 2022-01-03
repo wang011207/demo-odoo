@@ -1,0 +1,2 @@
+# demo-odoo
+odoo
